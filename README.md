@@ -1,6 +1,6 @@
 # Fisher
 An Easy-to-use Phishing tool
-_________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 **DISCLAIMER**
 
 **Any misuse of the application(Fisher) is totally your responsibility, The contributors will not be responsible for any activities done with this tool.**
